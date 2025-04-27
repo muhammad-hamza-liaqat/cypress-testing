@@ -42,7 +42,7 @@ Follow these steps to set up the project locally:
           ```bash
 
     echo {
-    "tmdbApiKey": "2edbbcf30b4b9ebbe5a8dc5187e6d2c4"
+    "tmdbApiKey": ""
     }
 
     ```
