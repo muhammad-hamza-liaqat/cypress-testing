@@ -1,5 +1,6 @@
 describe('The Movie Database (TMDb) End-to-End Testing', () => {
-    const SEARCH_MOVIE = 'Mission: Impossible';
+    // const SEARCH_MOVIE = 'Mission: Impossible';
+    const SEARCH_MOVIE = 'A Star Is Born';
     const invalidMovie = 'InvalidMovie12345';
 
 
